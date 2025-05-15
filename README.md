@@ -37,7 +37,7 @@ src="https://custom-icon-badges.demolab.com/github/stars/ArthurRosa17?color=5596
 <p>
 
   <img
-    align="domw"
+    align="down"
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
