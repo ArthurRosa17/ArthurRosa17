@@ -31,11 +31,11 @@ src="https://custom-icon-badges.demolab.com/github/stars/ArthurRosa17?color=5596
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <br/>
 <br/>
+---
 
 ###  Estatísticas
 
 <p>
-
   <img
     alt="GitHub Stats" 
     height="200" 
